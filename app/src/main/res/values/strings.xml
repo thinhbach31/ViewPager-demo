@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">ViewPager</string>
+    <string name="app_name">Ngot-ViewPager</string>
+    <string name="hoang_name">Hoàng</string>
+    <string name="thang_name">Thắng</string>
+    <string name="na_name">Nam Anh</string>
+    <string name="tuan_name">Tuấn</string>
 </resources>
